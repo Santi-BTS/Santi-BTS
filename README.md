@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Santiago Lozano
+- 👋 Hi, I’m Santi Lozano
 - 👀 I’m interested in BTS
 - 😁 I’m currently learning HTML and JavaScript
 - 📫 How to reach me: santiaqo.lozano@gmail.com
